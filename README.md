@@ -49,8 +49,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-exp.no.08.png
-
+![alt text](exp.no.08.png)
 ```
 
 ## Result
